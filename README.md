@@ -1,4 +1,4 @@
-# GDIM32 In Class Activities
+﻿# GDIM32 In Class Activities
 ## Instructions
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
@@ -29,3 +29,11 @@ Q7: using the Class Name(Transform) instead of the actual variable name
 Q8: change Transform to _playerTransform;
 
 3.https://docs.google.com/document/d/11NYqSVvzWFbjYSesEhZULsuZtHzjsLqqcApzmbzIQNQ/edit?tab=t.0
+
+#Week 2 InClass Activity
+
+Activity 1:
+[MG2 breakdown Google doc](https://docs.google.com/document/d/1R5Ue-SPhKY4tDsKkZJ63zlUaMbS46BERUSri4N7_sSM/edit?tab=t.0)
+
+Activity 2:
+[MG2 In Class WorkShop Commits](https://github.com/UCI-GDIM32-W25/in-class-activities-Denoraa/commit/57ddb72b90fe06bfc13c03e04d6589da86edc27a)
