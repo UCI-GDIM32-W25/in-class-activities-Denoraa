@@ -30,7 +30,7 @@ Activity 2:
 #Week3 InClass Activities
 
 Activity 1 & 2. 
-	Leo
+	Leo.Abe
 
 Activity 3. 
 	[MG3 breakdown Google doc] https://docs.google.com/document/d/1v3KCNPJ1lrHqvlM2q2Nw6OMWVm0e8-ZG2oxHIdAI0Fc/edit?usp=sharing
