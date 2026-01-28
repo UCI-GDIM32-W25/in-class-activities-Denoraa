@@ -44,13 +44,9 @@ Activity 0:
 Activity 1:
 	There will be only one Locator because other Locators will be destoryed due to Destroy(gameObject), it's a classic Singleton Mode
 Activity 2:
-<<<<<<< HEAD
-	[MG4 breakdown Google doc]https://docs.google.com/document/d/1lACboVfjGNxpmW6o_ToziKImhccrNNAh-64wDbHDnBo/edit?usp=sharing
+		<img width="1546" height="958" alt="屏幕截图 2026-01-27 193042" src="https://github.com/user-attachments/assets/1debe10c-e3c2-4a24-9f34-368698b253c3" />
 Activity 3:
 	[MG4 In Class WorkShop Commits]https://github.com/Denoraa/HW4/commit/bba9a1c5c09099c7e9a1706c1f9dc516ce421eeb
 	Added the gamemanager as a singleton to control the game flow
-=======
-	<img width="1546" height="958" alt="屏幕截图 2026-01-27 193042" src="https://github.com/user-attachments/assets/1debe10c-e3c2-4a24-9f34-368698b253c3" />
-Activity 3:
-	Leo.Abe
->>>>>>> f4d62589ec64e78f8ce6a9e364b87a304f977d4f
+
+
