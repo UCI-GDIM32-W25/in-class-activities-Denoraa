@@ -26,7 +26,7 @@ Activity 1:
 Activity 2:
 [MG2 In Class WorkShop Commits](https://github.com/UCI-GDIM32-W25/in-class-activities-Denoraa/commit/57ddb72b90fe06bfc13c03e04d6589da86edc27a)
 
-
+####
 #Week3 InClass Activities
 
 Activity 1 & 2. 
@@ -34,3 +34,16 @@ Activity 1 & 2.
 
 Activity 3. 
 	[MG3 breakdown Google doc] https://docs.google.com/document/d/1v3KCNPJ1lrHqvlM2q2Nw6OMWVm0e8-ZG2oxHIdAI0Fc/edit?usp=sharing
+
+
+####
+#Week 4 InClass Activities
+
+Activity 0:
+	Leo.Abe
+Activity 1:
+	There will be only one Locator because other Locators will be destoryed due to Destroy(gameObject), it's a classic Singleton Mode
+Activity 2:
+	Leo.Abe
+Activity 3:
+	Leo.Abe
