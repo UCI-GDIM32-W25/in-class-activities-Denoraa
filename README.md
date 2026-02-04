@@ -55,17 +55,17 @@ Activity 3:
 ####
 #Week 5 InClass Activities
 
-Activity 1
+- Activity 1
 I like this design because it seperates the function in to interface and abstracg class so it is easy to rewrite or implemnent or do extention, I would use the same technic in similar projects.
 
-Activity 2
+- Activity 2
 Model: ItemW5Demo2, EnemyStats, and the player’s inventory data stored in PlayerW5Demo2._inventory
 
 View: InventoryUI, DialogueBubble
 
 Controller: PlayerW5Demo2 (handles input and triggers UI), EnemyW5Demo2 (drives dialogue visibility based on distance to the player)
 
-Activity 3
+- Activity 3
 
 Scenario 1:
 
@@ -73,11 +73,17 @@ Scenario 2:
 
 
 Scenario 3:
-Model-View-Controller with C# events
+Model-View-Controller with C# events: Nessasary for clear structual codes
+
 Inheritance with polymorphism
-Basic parent class, abstract class, and/or interface
-Finite State Machine with C# enums
-Singleton
-ScriptableObjects
+	Basic parent class, abstract class, and/or interface: for example, there are multiple
+	plants, can all have same identities(time to grow, spirte, selling price....), it's
+	more orgnized to put them together though parent class
+	
+Finite State Machine with C# enums: For example, Player movement, animation need to be 
+controlled through state machine(perhaps not finite state machine), and plants animation
+might need state machine as well
+Singleton: the managers(shopmanager, buildmanager, itemmanager...) are all singletons
+ScriptableObjects: record player data, or configutate objects.
 
 
