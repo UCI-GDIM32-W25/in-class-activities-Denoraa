@@ -83,6 +83,7 @@ Inheritance with polymorphism
 Finite State Machine with C# enums: For example, Player movement, animation need to be 
 controlled through state machine(perhaps not finite state machine), and plants animation
 might need state machine as well
+
 Singleton: the managers(shopmanager, buildmanager, itemmanager...) are all singletons
 ScriptableObjects: record player data, or configutate objects.
 
