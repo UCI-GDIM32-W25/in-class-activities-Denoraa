@@ -69,8 +69,11 @@ Controller: PlayerW5Demo2 (handles input and triggers UI), EnemyW5Demo2 (drives 
 
 Scenario 1:
 
+ScriptableObjects: record beat data, time need to be hit
+
 Scenario 2:
 
+Singleton: the managers(sessionManager, playersmanager)
 
 Scenario 3:
 Model-View-Controller with C# events: Nessasary for clear structual codes
@@ -85,6 +88,11 @@ controlled through state machine(perhaps not finite state machine), and plants a
 might need state machine as well
 
 Singleton: the managers(shopmanager, buildmanager, itemmanager...) are all singletons
+
 ScriptableObjects: record player data, or configutate objects.
 
+- Activity 4
+Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
+
+[First Proposal link]https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0
 
