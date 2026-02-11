@@ -96,3 +96,19 @@ Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
 
 [First Proposal link]https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0
 
+
+####
+#Week 6
+
+- Activity 1
+Gizmos: Draw out a visual shape that's used for determine anythings in unity that can't be seen or don't want be seen in player perspective.
+
+Profiling: We can use this to check which functions are taking responsability of lagging.
+
+BreakPoint: Helps identifing exceptions or any sort of error in your code(or not error, just wrong logic), stop and give it a check on variables and it's behaviors.
+
+-Activity 2
+Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
+[Final Draft Document Link]https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0
+
+
