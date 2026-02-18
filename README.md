@@ -112,3 +112,30 @@ Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
 [Final Draft Document Link]https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0
 
 
+####
+#Week 7
+
+-Activity 1
+Finite State Machine: used for purposes like monster agro, movement, behaviours... easy to add more states and operate in a clear order.
+
+Raycast: literally draw a line or shoot a ray in the scene, and you can adjust many variables to control it, and you can use it to detect game objects or do calculations based on the numbers obtained. 
+
+-Activity 2
+Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
+
+-Activity 3
+<img width="1460" height="830" alt="b7c8689e-8205-4f6f-9a4a-670789e9333b" src="https://github.com/user-attachments/assets/5dad3148-88c1-4e05-9ea5-6eeadfed6a97" />
+
+-Activity 4
+https://trello.com/invite/b/6995204f10128a75a7a1bc20/ATTIf0a2fa95accf65d1de220a8e1f98bdc3724C4EE2/froggiest-frog
+
+-Activity 5
+
+
+
+
+
+
+
+
+
