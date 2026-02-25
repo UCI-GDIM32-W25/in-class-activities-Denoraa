@@ -133,7 +133,26 @@ https://trello.com/invite/b/6995204f10128a75a7a1bc20/ATTIf0a2fa95accf65d1de220a8
 https://github.com/hayaya22333/GDIM32-Final/commit/969fb9c1586f37dadd4720b677636823b23cad88
 
 
+####
+#Week 8
 
+-Activity 1
+Post-processing effect: effects added after the scene is rendered to change how the final image looks, like adding blur, glow, or color adjustments.
+
+Unity Render Pipeline: the system in Unity that controls how a scene is rendered and turned into the final image on the screen.
+
+-Activity 2
+Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
+
+-Activity 3
+Buddy Team : Fate GameMaker
+
+Note:Use keybinds for interacting with stuff. Lock cursor to the center of the screen. Disable player movement while dialogue exchange is happening. Add in-dialogue and out-of-dialogue states to control player behavior while dialogue is and isn't happening.
+
+-Activity 4
+Task for today: make an inventory system
+
+-Activity 5
 
 
 
