@@ -112,3 +112,49 @@ Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
 [Final Draft Document Link]https://docs.google.com/document/d/13jJEC-fdvdxtT06lxVfHc2n7kMfb3ouPPp6kTowmMfg/edit?tab=t.0
 
 
+####
+#Week 7
+
+-Activity 1
+Finite State Machine: used for purposes like monster agro, movement, behaviours... easy to add more states and operate in a clear order.
+
+Raycast: literally draw a line or shoot a ray in the scene, and you can adjust many variables to control it, and you can use it to detect game objects or do calculations based on the numbers obtained. 
+
+-Activity 2
+Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
+
+-Activity 3
+<img width="1460" height="830" alt="b7c8689e-8205-4f6f-9a4a-670789e9333b" src="https://github.com/user-attachments/assets/5dad3148-88c1-4e05-9ea5-6eeadfed6a97" />
+
+-Activity 4
+https://trello.com/invite/b/6995204f10128a75a7a1bc20/ATTIf0a2fa95accf65d1de220a8e1f98bdc3724C4EE2/froggiest-frog
+
+-Activity 5
+https://github.com/hayaya22333/GDIM32-Final/commit/969fb9c1586f37dadd4720b677636823b23cad88
+
+
+####
+#Week 8
+
+-Activity 1
+Post-processing effect: effects added after the scene is rendered to change how the final image looks, like adding blur, glow, or color adjustments.
+
+Unity Render Pipeline: the system in Unity that controls how a scene is rendered and turned into the final image on the screen.
+
+-Activity 2
+Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
+
+-Activity 3
+Buddy Team : Fate GameMaker
+
+Note:Use keybinds for interacting with stuff. Lock cursor to the center of the screen. Disable player movement while dialogue exchange is happening. Add in-dialogue and out-of-dialogue states to control player behavior while dialogue is and isn't happening.
+
+-Activity 4
+Task for today: make an inventory system
+
+-Activity 5
+https://github.com/hayaya22333/GDIM32-Final/commit/e90a4dc5d0f8c485d1841eeec8a62d7ccbc0a9fc
+
+
+
+
