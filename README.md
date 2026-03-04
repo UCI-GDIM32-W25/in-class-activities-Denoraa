@@ -171,4 +171,4 @@ Navigating the UI is difficult. Inventory UI is confusing because it is not clea
 So, now we are only left with interaction with NPCs, which triggers dialogue, and we will only fix some UI issues and add more stupid feature to father frog then we are all good, so it's all going great with our progress.
 
 Activity 5
-
+https://github.com/hayaya22333/GDIM32-Final/commit/5b337239a1cb1d041d32ff1b836bb262bbb0e617
