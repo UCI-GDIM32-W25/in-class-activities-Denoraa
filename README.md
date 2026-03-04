@@ -155,6 +155,20 @@ Task for today: make an inventory system
 -Activity 5
 https://github.com/hayaya22333/GDIM32-Final/commit/e90a4dc5d0f8c485d1841eeec8a62d7ccbc0a9fc
 
+###
+Week9
 
+-Activity 1
+This dialogue structure is good because it separates content from logic. Designers can build conversations by editing DialogueNode assets instead of changing code, so iteration is fast and less error-prone. The node-and-branch model scales from simple linear lines to complex trees, while keeping each NPC script small and reusable. It also makes UI, input, and dialogue data independent, so you can swap UI layouts or add new option types without rewriting the whole system.
 
+-Activity 2
+Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
+
+-Activity 3
+Navigating the UI is difficult. Inventory UI is confusing because it is not clear which box is selected. The environment could use less plants so that the sun shines through. Instantiate the objects at an offset when dropping items. Use the same key for interacting and progressing dialogue for NPC.
+
+-Activity 4
+So, now we are only left with interaction with NPCs, which triggers dialogue, and we will only fix some UI issues and add more stupid feature to father frog then we are all good, so it's all going great with our progress.
+
+Activity 5
 
