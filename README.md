@@ -183,7 +183,8 @@ Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
 Add player dialogue options and corresponding NPC responses. Fix the Frogman NPC shooter because its aiming is bugged. Have the Frogman NPC move around or start in an idle animation instead of walk.
 
 -Activity 3
-Right now, my only task left is to make items throwable and selectable UI clearer, so I am way ahead of the progress that we should be rn, we are already adding more interesting features that's not on the due list XD.
+https://github.com/hayaya22333/GDIM32-Final/commit/5fb44969e96a0a62252e7cd4c81de8391c32c45f
+Right now, my only task left is to make items throwable and make the UI clearer, so I am way ahead of where we should be rn. We are already adding more interesting features that aren't on the due list XD.
 
 -Activity 4
 
