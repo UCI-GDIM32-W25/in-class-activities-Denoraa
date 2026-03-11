@@ -172,3 +172,19 @@ So, now we are only left with interaction with NPCs, which triggers dialogue, an
 
 Activity 5
 https://github.com/hayaya22333/GDIM32-Final/commit/5b337239a1cb1d041d32ff1b836bb262bbb0e617
+
+###
+Week10
+
+-Activity 1
+Attendance: Leo Sydney Abe, Han Yang, Jing.Chen
+
+-Activity 2
+Add player dialogue options and corresponding NPC responses. Fix the Frogman NPC shooter because its aiming is bugged. Have the Frogman NPC move around or start in an idle animation instead of walk.
+
+-Activity 3
+Right now, my only task left is to make items throwable and selectable UI clearer, so I am way ahead of the progress that we should be rn, we are already adding more interesting features that's not on the due list XD.
+
+-Activity 4
+
+I added a new feature to the selectable UI, so players can now see which grid they are actually on.
